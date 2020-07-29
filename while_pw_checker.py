@@ -1,5 +1,5 @@
-password = input("What's your password?")
-while password != "tiddies":
+password = input("What's the secret password?")
+while password != "expelliarmus":
 		print("No Entry!")
 		password = input("What's your password?")
-print("Welcome in, bitch!")
+print("Welcome in, young Wizard!!")
